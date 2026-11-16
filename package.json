@@ -19,11 +19,11 @@
   "devDependencies": {
     "@types/mdast": "^4.0.4",
     "husky": "^9.1.7",
-    "wrangler": "^4.18.0"
+    "wrangler": "^4.163.0"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.3.3",
     "rss": "^1.2.2",
     "unist-util-visit": "^5.0.0",
     "xmlbuilder2": "^3.1.1"
